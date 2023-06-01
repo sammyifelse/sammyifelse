@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sammyifelse
-- 👀 I’m interested in cooding
+- 👀 I’m interested in coding
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on microsoft  or google
 - 📫 How to reach me ...
