@@ -1,13 +1,11 @@
 - 👋 Hi, I’m @sammyifelse
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on microsoft  or google
+- Github|Python|Ubuntu|Linux|Parrot Os|HTML|CSS|Java Script
 - 📫 How to reach me    gmail : somarjeetthakuria@gmail.com ...
 -                        linkedin : Somarjeet Thakuria
 
 <!---
-sammyifelse/sammyifelse is a ✨ special ✨ repository because its `Its my first accound as a professional coder creaing 
-resposito
-ile) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+sammyifelse/sammyifelse is a ✨ special ✨ repository because  `Its my first accound as a fresher in this coding world...
+Looking forward to contribute on more and more open source projects and making projects too
+
