@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sammyifelse
-- 👀 I’m interested in coding
+- 👀 Currently a student...
 - 🌱 I’m currently learning web development
-- Github|Python|Ubuntu|Linux|Parrot Os|HTML|CSS|Java Script
+- Github|Python|Ubuntu|Linux|Parrot Os|HTML|CSS|C|MongoDb|Java Script
 - 📫 How to reach me    gmail : somarjeetthakuria@gmail.com ...
 -                        linkedin : Somarjeet Thakuria
 
